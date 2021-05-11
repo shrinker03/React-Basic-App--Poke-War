@@ -1,0 +1,17 @@
+.Pokedesk {
+    text-align: center;
+}
+
+.Pokedesk-cards {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedesk-Winner {
+    color: #4caf50;
+}
+
+.Pokedesk-Loser {
+    color: #e91e63;
+}
