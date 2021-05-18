@@ -1,3 +1,5 @@
+This is a Simple React basic app, everytime time the refresh happens the cards will change and the side having the most points will win.
+
 
 # Getting Started with Create React App
 
